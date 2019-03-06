@@ -1,0 +1,28 @@
+C:\Users\Dzmitriy_Kakhanouski\Documents\Visual Studio 2017\Projects\firstTaskDotNet\firstTaskDotNet\bin\Release\netcoreapp2.1\firstTaskDotNet.deps.json
+C:\Users\Dzmitriy_Kakhanouski\Documents\Visual Studio 2017\Projects\firstTaskDotNet\firstTaskDotNet\bin\Release\netcoreapp2.1\firstTaskDotNet.runtimeconfig.json
+C:\Users\Dzmitriy_Kakhanouski\Documents\Visual Studio 2017\Projects\firstTaskDotNet\firstTaskDotNet\bin\Release\netcoreapp2.1\firstTaskDotNet.runtimeconfig.dev.json
+C:\Users\Dzmitriy_Kakhanouski\Documents\Visual Studio 2017\Projects\firstTaskDotNet\firstTaskDotNet\bin\Release\netcoreapp2.1\firstTaskDotNet.dll
+C:\Users\Dzmitriy_Kakhanouski\Documents\Visual Studio 2017\Projects\firstTaskDotNet\firstTaskDotNet\bin\Release\netcoreapp2.1\firstTaskDotNet.pdb
+C:\Users\Dzmitriy_Kakhanouski\Documents\Visual Studio 2017\Projects\firstTaskDotNet\firstTaskDotNet\bin\Release\netcoreapp2.1\TestLib.dll
+C:\Users\Dzmitriy_Kakhanouski\Documents\Visual Studio 2017\Projects\firstTaskDotNet\firstTaskDotNet\bin\Release\netcoreapp2.1\TestLib.pdb
+C:\Users\Dzmitriy_Kakhanouski\Documents\Visual Studio 2017\Projects\firstTaskDotNet\firstTaskDotNet\obj\Release\netcoreapp2.1\firstTaskDotNet.csproj.CoreCompileInputs.cache
+C:\Users\Dzmitriy_Kakhanouski\Documents\Visual Studio 2017\Projects\firstTaskDotNet\firstTaskDotNet\obj\Release\netcoreapp2.1\firstTaskDotNet.AssemblyInfoInputs.cache
+C:\Users\Dzmitriy_Kakhanouski\Documents\Visual Studio 2017\Projects\firstTaskDotNet\firstTaskDotNet\obj\Release\netcoreapp2.1\firstTaskDotNet.AssemblyInfo.cs
+C:\Users\Dzmitriy_Kakhanouski\Documents\Visual Studio 2017\Projects\firstTaskDotNet\firstTaskDotNet\obj\Release\netcoreapp2.1\firstTaskDotNet.csproj.CopyComplete
+C:\Users\Dzmitriy_Kakhanouski\Documents\Visual Studio 2017\Projects\firstTaskDotNet\firstTaskDotNet\obj\Release\netcoreapp2.1\firstTaskDotNet.dll
+C:\Users\Dzmitriy_Kakhanouski\Documents\Visual Studio 2017\Projects\firstTaskDotNet\firstTaskDotNet\obj\Release\netcoreapp2.1\firstTaskDotNet.pdb
+C:\Users\Dzmitriy_Kakhanouski\Documents\Visual Studio 2017\Projects\firstTaskDotNet\firstTaskDotNet\obj\Release\netcoreapp2.1\firstTaskDotNet.csprojAssemblyReference.cache
+C:\FirstTaskDotNetMentoring\firstTaskDotNet\firstTaskDotNet\bin\Release\netcoreapp2.1\firstTaskDotNet.deps.json
+C:\FirstTaskDotNetMentoring\firstTaskDotNet\firstTaskDotNet\bin\Release\netcoreapp2.1\firstTaskDotNet.runtimeconfig.json
+C:\FirstTaskDotNetMentoring\firstTaskDotNet\firstTaskDotNet\bin\Release\netcoreapp2.1\firstTaskDotNet.runtimeconfig.dev.json
+C:\FirstTaskDotNetMentoring\firstTaskDotNet\firstTaskDotNet\bin\Release\netcoreapp2.1\firstTaskDotNet.dll
+C:\FirstTaskDotNetMentoring\firstTaskDotNet\firstTaskDotNet\bin\Release\netcoreapp2.1\firstTaskDotNet.pdb
+C:\FirstTaskDotNetMentoring\firstTaskDotNet\firstTaskDotNet\bin\Release\netcoreapp2.1\TestLib.dll
+C:\FirstTaskDotNetMentoring\firstTaskDotNet\firstTaskDotNet\bin\Release\netcoreapp2.1\TestLib.pdb
+C:\FirstTaskDotNetMentoring\firstTaskDotNet\firstTaskDotNet\obj\Release\netcoreapp2.1\firstTaskDotNet.csprojAssemblyReference.cache
+C:\FirstTaskDotNetMentoring\firstTaskDotNet\firstTaskDotNet\obj\Release\netcoreapp2.1\firstTaskDotNet.csproj.CoreCompileInputs.cache
+C:\FirstTaskDotNetMentoring\firstTaskDotNet\firstTaskDotNet\obj\Release\netcoreapp2.1\firstTaskDotNet.AssemblyInfoInputs.cache
+C:\FirstTaskDotNetMentoring\firstTaskDotNet\firstTaskDotNet\obj\Release\netcoreapp2.1\firstTaskDotNet.AssemblyInfo.cs
+C:\FirstTaskDotNetMentoring\firstTaskDotNet\firstTaskDotNet\obj\Release\netcoreapp2.1\firstTaskDotNet.csproj.CopyComplete
+C:\FirstTaskDotNetMentoring\firstTaskDotNet\firstTaskDotNet\obj\Release\netcoreapp2.1\firstTaskDotNet.dll
+C:\FirstTaskDotNetMentoring\firstTaskDotNet\firstTaskDotNet\obj\Release\netcoreapp2.1\firstTaskDotNet.pdb

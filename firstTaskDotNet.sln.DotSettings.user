@@ -1,0 +1,10 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;&#xD;
+  &lt;Assembly Path="C:\android app\TestLib\TestLib\bin\Debug\netstandard2.0\TestLib.dll" /&gt;&#xD;
+&lt;/AssemblyExplorer&gt;</s:String>
+	<s:String x:Key="/Default/RunConfigs/Active/@EntryValue">856A0439DBF06241AAEB604D3E7A8B9F</s:String>
+	<s:Boolean x:Key="/Default/RunConfigs/Config/=856A0439DBF06241AAEB604D3E7A8B9F/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/RunConfigs/Config/=856A0439DBF06241AAEB604D3E7A8B9F/DefaultAction/@EntryValue">run</s:String>
+	<s:String x:Key="/Default/RunConfigs/Config/=856A0439DBF06241AAEB604D3E7A8B9F/Name/@EntryValue">firstTaskDotNet</s:String>
+	<s:String x:Key="/Default/RunConfigs/Config/=856A0439DBF06241AAEB604D3E7A8B9F/ProjectGuid/@EntryValue">77F0647CFB771B4488F08501CB423020</s:String>
+	<s:String x:Key="/Default/RunConfigs/Config/=856A0439DBF06241AAEB604D3E7A8B9F/Type/@EntryValue">project</s:String></wpf:ResourceDictionary>
