@@ -18,10 +18,10 @@ C:\FirstTaskDotNetMentoring\firstTaskDotNet\firstTaskDotNet\bin\Debug\netcoreapp
 C:\FirstTaskDotNetMentoring\firstTaskDotNet\firstTaskDotNet\bin\Debug\netcoreapp2.1\firstTaskDotNet.dll
 C:\FirstTaskDotNetMentoring\firstTaskDotNet\firstTaskDotNet\bin\Debug\netcoreapp2.1\firstTaskDotNet.pdb
 C:\FirstTaskDotNetMentoring\firstTaskDotNet\firstTaskDotNet\bin\Debug\netcoreapp2.1\TestLib.dll
-C:\FirstTaskDotNetMentoring\firstTaskDotNet\firstTaskDotNet\bin\Debug\netcoreapp2.1\TestLib.pdb
 C:\FirstTaskDotNetMentoring\firstTaskDotNet\firstTaskDotNet\obj\Debug\netcoreapp2.1\firstTaskDotNet.csproj.CoreCompileInputs.cache
 C:\FirstTaskDotNetMentoring\firstTaskDotNet\firstTaskDotNet\obj\Debug\netcoreapp2.1\firstTaskDotNet.AssemblyInfoInputs.cache
 C:\FirstTaskDotNetMentoring\firstTaskDotNet\firstTaskDotNet\obj\Debug\netcoreapp2.1\firstTaskDotNet.AssemblyInfo.cs
 C:\FirstTaskDotNetMentoring\firstTaskDotNet\firstTaskDotNet\obj\Debug\netcoreapp2.1\firstTaskDotNet.csproj.CopyComplete
 C:\FirstTaskDotNetMentoring\firstTaskDotNet\firstTaskDotNet\obj\Debug\netcoreapp2.1\firstTaskDotNet.dll
 C:\FirstTaskDotNetMentoring\firstTaskDotNet\firstTaskDotNet\obj\Debug\netcoreapp2.1\firstTaskDotNet.pdb
+C:\FirstTaskDotNetMentoring\firstTaskDotNet\firstTaskDotNet\obj\Debug\netcoreapp2.1\firstTaskDotNet.csprojAssemblyReference.cache
