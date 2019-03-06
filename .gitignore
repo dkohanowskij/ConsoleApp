@@ -1,0 +1,23 @@
+# user files
+*.user
+*.suo
+*.DotSettings
+.vs/
+
+# msbuild output
+bin/
+obj/
+precompiledOutput/
+
+# package download folders
+node_modules/
+lib/
+packages/
+!packages/repositories.config
+
+# tools and tools output
+*.nupkg
+publish/
+!src/.datasources/**/*.exe
+!src/.nuget/**/*.exe
+!src/.build/**/*.dll
